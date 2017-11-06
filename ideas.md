@@ -2,8 +2,8 @@
 
 ## Características
 
-* Apuntes en formato $\LaTeX$
-    * ¿Qué paquete $\LaTeX$ usar? ¿Listings? ¿PyTeX?...
+* Apuntes en formato \LaTeX
+    * ¿Qué paquete \LaTeX usar? ¿Listings? ¿PyTeX?...
 * 9 sesiones de 2.5 horas (22.5 horas)
 * Incluir ejercicios propuestos y resueltos
 
