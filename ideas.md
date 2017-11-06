@@ -22,7 +22,7 @@ Estos contenidos se podrían desarrollar en:
 
 ### Capítulo 1. Introducción
 
-Temporalización: 2.5 horas?
+Duración: 2.5 horas?
 
 Preguntas que sabrás responder al termina este capítulo:
   * Qué versión de Python y qué paquetes es recomendable utilizar para desarrollar software científico
@@ -33,7 +33,7 @@ Preguntas que sabrás responder al termina este capítulo:
 
 ### Capítulo 2. Tareas básicas
 
-Temporalización: 2.5 horas?
+Duración: 2.5 horas?
 
 Bibliografía: [H. Langtangen, A primer on scientific programming with Python, Capítulo 2]
 
@@ -51,18 +51,18 @@ Preguntas que sabrás responder al termina este capítulo:
 
 ### Capítulo 3. Arrays (vectores y marices) y gráficas
 
-Temporalización: 2.5 horas?
+Duración: 2.5 horas?
 
 * Paquetes numpy, scipy, matplotlib
 
 ### Capítulo 4. Cadenas de carateres, entrada/salida estándar, ficheros
 
-Temporalización: 2.5 horas?
+Duración: 2.5 horas?
 
 ### Capítulo 5. Cálculo simbólico con sympy. SageMath.
 
-Temporalización: 2.5 horas?
+Duración: 2.5 horas?
 
 ### Capítulo 6. Introducción a la programación orientada a objetos
 
-Temporalización: 2.5 horas?
+Duración: 2.5 horas?
