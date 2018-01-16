@@ -25,10 +25,14 @@ Estos contenidos se podrían desarrollar en:
 Duración: 2.5 horas?
 
 Preguntas que sabrás responder al terminar este capítulo:
-  * Qué versión de Python y qué paquetes es recomendable utilizar para desarrollar software científico
-  * Cómo puedo utilizar el entorno Jupyter Notebook para el desarrollo interactivo de código Python
-  * Cómo puedo utilizar un editor como Spyder para el desarrollo de programas o *scripts* en Python
-  * Cómo funciona un programa python sencillo en Python y cómo puedo ejecutarlo en estos entornos
+	* Qué versión de Python y qué paquetes es recomendable utilizar para desarrollar software científico
+	* Cómo puedo utilizar el entorno Jupyter Notebook para el desarrollo interactivo de código Python
+	* Cómo puedo utilizar un editor como Spyder para el desarrollo de programas o *scripts* en Python
+	* Cómo funciona un programa python sencillo en Python y cómo puedo ejecutarlo en estos entornos
+
+Bibliografía:
+	* https://scipy.org/install.html: Distintas formas de instalar
+      "ecosistemas científicos" basados en Python
 
 
 ### Capítulo 2. Tareas básicas
@@ -53,15 +57,22 @@ Preguntas que sabrás responder al terminar este capítulo:
 
 Duración: 2.5 horas?
 
-* Paquetes numpy, scipy, matplotlib
+Preguntas que sabrás responder al terminar este capítulo:
+	* Paquetes numpy, scipy, matplotlib
 
-### Capítulo 4. Cadenas de carateres, entrada/salida estándar, ficheros
+Bibliografía:
+	* https://docs.scipy.org/doc/numpy-dev/user/quickstart.html (Guía de inicio rápido de Numpy)
+
+### Capítulo 4. Cadenas de carateres, entrada/salida estándar, ficheros, llamadas al sistema operativo
 
 Duración: 2.5 horas?
 
 ### Capítulo 5. Cálculo simbólico con sympy. SageMath.
 
 Duración: 2.5 horas?
+
+Bibliografía:
+	* http://docs.sympy.org/latest/tutorial/index.html (Tutorial de Simpy)
 
 ### Capítulo 6. Introducción a la programación orientada a objetos
 
