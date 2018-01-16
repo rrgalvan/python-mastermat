@@ -24,7 +24,7 @@ Estos contenidos se podrían desarrollar en:
 
 Duración: 2.5 horas?
 
-Preguntas que sabrás responder al termina este capítulo:
+Preguntas que sabrás responder al terminar este capítulo:
   * Qué versión de Python y qué paquetes es recomendable utilizar para desarrollar software científico
   * Cómo puedo utilizar el entorno Jupyter Notebook para el desarrollo interactivo de código Python
   * Cómo puedo utilizar un editor como Spyder para el desarrollo de programas o *scripts* en Python
@@ -37,7 +37,7 @@ Duración: 2.5 horas?
 
 Bibliografía: [H. Langtangen, A primer on scientific programming with Python, Capítulo 2]
 
-Preguntas que sabrás responder al termina este capítulo:
+Preguntas que sabrás responder al terminar este capítulo:
   * Cómo usar Python para imprimir una tabla de valores $n$ valores
     equiespaciados de $\sin(x)$, $\cos(x)$, $x\in [0,\pi]$ usando: el
     paquete math, los bucles while, la función print.
